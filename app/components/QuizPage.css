@@ -1,0 +1,58 @@
+.quiz {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.question {
+	width: 80%;
+}
+
+.question h1 {
+	padding: 20px;
+	border: solid 2px rgba(255, 255, 255, 0.5);
+	border-radius: 10px;
+	background: #42355d;
+	font-size: 24px;
+}
+
+.choices {
+	margin-top: 50px;
+	display: flex;
+	flex-direction: column;
+}
+
+.choices label {
+	width: 100%;
+	font-size: 20px;
+	margin-top: 20px;
+	line-height: 1.5;
+}
+
+.choices input {
+	margin: 0 10px 0px 10px;
+	transform: scale(1.35);
+}
+
+.submit {
+	margin-top: 50px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.submit button {
+	text-transform: uppercase;
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	border: solid 1px rgba(0, 0, 0, 0.125);
+	box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.2);
+	margin-top: 30px;
+	background: #25c525;
+	color: white;
+	font-size: 18px;
+	cursor: pointer;
+	margin-left: 20px;
+}

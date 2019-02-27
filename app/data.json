@@ -1,0 +1,910 @@
+[
+   {
+      "question": "Tại sao phải nói không với ma túy?",
+      "answers": {
+         "choices": [
+            "Vì ma túy gây ảnh hưởng nghiêm trọng đối với sức khỏe người dùng.",
+            "Vì ma Túy làm phá tán tài sản của người dùng và gia đình của người dùng.",
+            "Vì ma Túy gây ảnh hưởng nghiêm trọng đến trật tự an toàn xã hội."
+         ],
+         "correct": " Cả ba lý do trên"
+      }
+   },
+   {
+      "question": "Chất gây nghiện là gì?",
+      "answers": {
+         "choices": [
+            "Là chất kích thích",
+            "Là chất gây ức chế thần kinh",
+            "Là chất dễ gây tình trạng nghiện đối với người sử dụng."
+         ],
+         "correct": " Cả a, b, c đều đúng"
+      }
+   },
+   {
+      "question": "Tệ nạn ma túy được hiểu như thế nào?",
+      "answers": {
+         "choices": [
+            "Tình trạng nghiện ma túy",
+            "Tội phạm về ma túy",
+            "Các hành vi trái phép về ma túy"
+         ],
+         "correct": " Tất cả các đáp án trên"
+      }
+   },
+   {
+      "question": "Người nghiện ma túy là người như thế nào?",
+      "answers": {
+         "choices": [
+            "Là người có sử dụng ma túy",
+            "Người tiếp xúc thường xuyên với ma túy",
+            "Người sử dụng thuốc hướng thần"
+         ],
+         "correct": " Người sử dụng thường xuyên chất ma túy, chất hướng thần, chất gây nghiện và bị lệ thuộc vào các chất này"
+      }
+   },
+   {
+      "question": "Trong các hành vi sau đây, hành vi nào bị nghiêm cấm theo Luật Phòng chống ma túy?",
+      "answers": {
+         "choices": [
+            "Trồng cây có chứa chất ma túy.",
+            "Sản xuất, tàng trữ, vận chuyển, bảo quản, mua bán, phân phối, giám định, xử lý, trao đổi, xuất khẩu, nhập khẩu, quá cảnh, nghiên cứu trái phép hoặc chiếm đoạt chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần.",
+            "Sử dụng, tổ chức sử dụng trái phép chất ma túy; xúi giục, cưỡng bức, lôi kéo, chứa chấp, hỗ trợ việc sử dụng trái phép chất ma túy."
+         ],
+         "correct": " Tất cả các hành vi nêu trên"
+      }
+   },
+   {
+      "question": "Phòng chống ma túy là trách nhiệm của ai?",
+      "answers": {
+         "choices": [
+            "Của cá nhân, gia đình.",
+            "Của cơ quan, tổ chức.",
+            "Của cả xã hội"
+         ],
+         "correct": " Tất cả các đáp án trên "
+      }
+   },
+   {
+      "question": "Trong các tác hại sau đây, tác hại nào do ma túy gây ra?",
+      "answers": {
+         "choices": [
+            "Làm cho sức khỏe người dùng suy sụp nhanh chóng",
+            "Dễ bị sốc dẫn đến chết người",
+            "Hạnh phúc gia đình tan rã"
+         ],
+         "correct": "Tất cả các đáp án trên đều đúng"
+      }
+   },
+   {
+      "question": ". Biểu hiệu nào sau đây là biểu hiện thường thấy ở người đang nghiện ma túy?",
+      "answers": {
+         "choices": [
+            "Ho khan",
+            "Thích cãi vã người khác",
+            "Tất cả các dấu hiệu trên đều đúng"
+         ],
+         "correct": "Thường ngáp vặt"
+      }
+   },
+   {
+      "question": "Dấu hiệu nào sau đây có thể nhận biết người nghiện ma tuý?",
+      "answers": {
+         "choices": [
+            "Tóc bạc nhanh",
+            "Mặt phù môi thâm",
+            "Răng đen, môi lở loét"
+         ],
+         "correct": "Răng vỡ vụn, mắt lờ đờ"
+      }
+   },
+   {
+      "question": "Khi say ma túy người nghiện sẽ rơi vào trạng thái nào?",
+      "answers": {
+         "choices": ["Bất tỉnh", "Co giật", "Mộng du"],
+         "correct": "Ảo giác"
+      }
+   },
+   {
+      "question": "Khi phát hiện tệ nạn ma túy cá nhân, gia đình có trách nhiệm gì?",
+      "answers": {
+         "choices": [
+            "Cách ly đối tượng",
+            "Đe dọa đối tượng",
+            "Xa lánh đối tượng"
+         ],
+         "correct": "Cung cấp nhanh chóng các thông tin về tệ nạn ma túy cho cơ quan công an hoặc cơ quan khác có thẩm quyền"
+      }
+   },
+   {
+      "question": "Theo quy định của Luật phòng chống ma túy Nhà trường có trách nhiệm gì?",
+      "answers": {
+         "choices": [
+            "Tổ chức thực hiện chương trình giáo dục về phòng, chống ma túy; giáo dục pháp luật về phòng, chống ma túy và lối sống lành mạnh cho học sinh, sinh viên, học viên; quản lý chặt chẽ, ngăn chặn học sinh, sinh viên, học viên tham gia tệ nạn ma túy.",
+            "Phối hợp với gia đình, cơ quan, tổ chức và chính quyền địa phương để quản lý, giáo dục học sinh, sinh viên, học viên về phòng, chống ma túy.",
+            "Phối hợp với cơ quan y tế và chính quyền địa phương tổ chức xét nghiệm khi cần thiết để phát hiện học sinh, sinh viên, học viên nghiện ma túy."
+         ],
+         "correct": " Tất cả các đáp án trên"
+      }
+   },
+   {
+      "question": "Câu 13 . Ma túy là chất được chiết xuất từ loại cây nào dưới đây?",
+      "answers": {
+         "choices": ["Cây Côca", "Cây Cần sa", "Cây Anh túc"],
+         "correct": "Cả a, b, c đều đúng "
+      }
+   },
+   {
+      "question": "Thuốc lắc là dạng ma tuý gì?",
+      "answers": {
+         "choices": [
+            "Ma tuý công nghiệp",
+            "Ma tuý tự nhiên",
+            "Ma tuý bán tổng hợp"
+         ],
+         "correct": "Ma tuý tổng hợp"
+      }
+   },
+   {
+      "question": "Câu 15 . Hành vi sử dụng trái phép chất ma túy thì bị xử lý hình sự với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "3 tháng đến 2 năm",
+            "3 năm đến 3 năm",
+            "3 tháng đến 4 năm"
+         ],
+         "correct": "Không bị xử lý hình sự về hành vi sử dụng trái phép chất ma túy "
+      }
+   },
+   {
+      "question": "Tội cưỡng bức, lôi kéo người khác sử dụng trái phép chất ma túy bị phạt tù với mức nào dưới đây?",
+      "answers": {
+         "choices": ["1 năm đến 3 năm", "2 năm đến 5 năm", "3 năm đến 7 năm"],
+         "correct": "2 năm đến tù chung thân"
+      }
+   },
+   {
+      "question": "Theo điều 192 của Bộ luật hình sự năm 1999 sửa đổi, bổ sung năm 2009 thì tội trồng cây thuốc phiện hoặc các loại cây khác có chất ma tuý, bị xử phạt với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "Từ 06 tháng đến 05 năm",
+            "Từ 06 tháng đến 06 năm",
+            "Từ 06 tháng đến 10 năm"
+         ],
+         "correct": "Từ 06 tháng đến 07 năm ."
+      }
+   },
+   {
+      "question": "Theo điều 193 của Bộ luật hình sự năm 1999 sửa đổi bổ, sung năm 2009 thì tội sản xuất trái phép chất ma tuý thì bị xử lý hình sự với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "Từ 01 năm đến 10 năm",
+            "Từ 02 năm đến 15 năm",
+            "Từ 02 năm đến chung thân"
+         ],
+         "correct": "Từ 02 năm đến tử hình "
+      }
+   },
+   {
+      "question": "Theo điều 194 của Bộ luật hình sự năm 1999 sửa đổi bổ, sung năm 2009 thì tội tàng trữ, vận chuyển, mua bán trái phép hoặc chiếm đoạt chất ma tuý thì bị xử lý hình sự với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "Từ 02 năm đến 05 năm",
+            "Từ 02 năm đến 07 năm",
+            "Từ 02 năm đến chung thân"
+         ],
+         "correct": " Từ 02 năm đến tử hình "
+      }
+   },
+   {
+      "question": "Theo điều 197 của Bộ luật hình sự năm 1999 sửa đổi, bổ sung năm 2009 thì tội tổ chức sử dụng trái phép chất ma tuý, bị xử phạt tù với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "Từ 03 tháng đến 03 năm",
+            "Từ 03 tháng đến 07 năm",
+            "Từ 03 tháng đến 10 năm"
+         ],
+         "correct": "Từ 02 năm đến tù chung thân"
+      }
+   },
+   {
+      "question": "Theo điều 198 của Bộ luật hình sự năm 1999 sửa đổi, bổ sung năm 2009 thì tội chứa chấp việc sử dụng trái phép chất ma tuý, bị xử phạt tù với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "Từ cảnh cáo đến 03 năm (cho hưởng án treo)",
+            "Từ 02 năm đến 07 năm",
+            "Từ 10 năm đến chung thân"
+         ],
+         "correct": "Từ 02 năm đến 15 năm "
+      }
+   },
+   {
+      "question": "Học sinh, sinh viên đang làm thủ tục nhập học mà vi phạm quy định về sản xuất, vận chuyển, tàng trữ, mua bán, tổ chức sử dụng, lôi kéo, cưỡng bức người khác sử dụng ma tuý thì bị nhà trường xử lý như thế nào?",
+      "answers": {
+         "choices": [
+            "Thu hồi giấy triệu tập nhập học",
+            "Thông báo cho gia đình",
+            "Thông báo cho cơ quan Nhà nước có thẩm quyền xử lý theo quy định của pháp luật"
+         ],
+         "correct": " Tất cả các đáp án trên"
+      }
+   },
+   {
+      "question": "Học sinh, sinh viên đang học mà vi phạm quy định về sản xuất, vận chuyển, tàng trữ, mua bán, tổ chức sử dụng, lôi kéo, cưỡng bức người khác sử dụng ma tuý thì bị nhà trường xử lý như thế nào?",
+      "answers": {
+         "choices": [
+            "Thông báo cho gia đình",
+            "Thông báo cho cơ quan Nhà nước có thẩm quyền xử lý theo quy định của pháp luật",
+            "Kỷ luật buộc thôi học"
+         ],
+         "correct": "Tất cả các đáp án trên "
+      }
+   },
+   {
+      "question": "Học sinh, sinh viên đang làm thủ tục nhập học mà nghiện ma tuý, không tự giác khai báo thì bị nhà trường xử lý như thế nào?",
+      "answers": {
+         "choices": [
+            "Thu hồi giấy triệu tập nhập học",
+            "Thông báo cho gia đình",
+            "Thông báo cho cơ quan Nhà nước có thẩm quyền để tổ chức cai nghiện"
+         ],
+         "correct": "Tất cả các đáp án trên"
+      }
+   },
+   {
+      "question": "Học sinh, sinh viên đang học nghiện ma tuý mà không tự giác khai báo thì bị nhà trường xử lý như thế nào?",
+      "answers": {
+         "choices": [
+            "Kỷ luật cảnh cáo",
+            "Cho thôi học",
+            "Kỷ luật buộc thôi học"
+         ],
+         "correct": "Kỷ luật đình chỉ học tập 01 năm (12 tháng), giao cho gia đình để phối hợp tổ chức cai nghiện"
+      }
+   },
+   {
+      "question": "Học sinh, sinh viên đang học nghiện ma tuý, tự giác khai báo thì nhà trường xử lý như thế nào?",
+      "answers": {
+         "choices": [
+            "Kỷ luật đình chỉ học tập 01 năm, trả về cho gia đình để phối hợp tổ chức cai nghiện",
+            "Cho thôi học",
+            "Kỷ luật buộc thôi học"
+         ],
+         "correct": "Cho phép người học nghỉ học một năm (12 tháng), bảo lưu kết quả học tập và giao cho gia đình người học để quản lý, tổ chức cai nghiện"
+      }
+   },
+   {
+      "question": "Câu 27: Ma tuý xâm nhâm vào cơ thể con người bằng cách nào?",
+      "answers": {
+         "choices": ["Qua hệ hô hấp", "Qua hệ tuần hoàn", "Qua hệ tiêu hoá"],
+         "correct": " Cả ba đáp án trên đều đúng"
+      }
+   },
+   {
+      "question": "Khi lỡ sử dụng chất ma tuý, bạn phải làm gì?",
+      "answers": {
+         "choices": [
+            "Tự bản thân khắc phục",
+            "Xa lánh bạn bè, người thân",
+            "Cả a, b, c đều không chính xác"
+         ],
+         "correct": "Đến cơ quan tư vấn để được giúp đỡ "
+      }
+   },
+   {
+      "question": "Làm thế nào để không bị bạn bè rủ rê, lôi kéo vào con đường sử dụng ma túy?",
+      "answers": {
+         "choices": [
+            "Không quan hệ bạn bè",
+            "Không tập hút thuốc lá",
+            "Không tham gia các tệ nạn xã hội"
+         ],
+         "correct": "Không nghe theo sự cám dỗ, mời mọc, thách thức của bạn bè "
+      }
+   },
+   {
+      "question": "Hành vi sử dụng trái phép chất ma tuý thì bị xử lý hành chính như thế nào theo Nghị định số 167/2013/ NĐ-CP ngày 12/11/2013?",
+      "answers": {
+         "choices": [
+            "Phạt tiền từ 1000.000 đ đến 2000.000 đ",
+            "Phạt tiền từ 3000.000 đến 5000.000 đ",
+            "Tất cả các đáp án trên đều không chính xác"
+         ],
+         "correct": "Phạt tiền từ 500.000 đ đến 1000.000 đ"
+      }
+   },
+   {
+      "question": "Cơ quan chuyên trách về phòng chống tệ nạn ma tuý gồm nhưng cơ quan nào?",
+      "answers": {
+         "choices": [
+            "Công an nhân dân, nhà trường, bộ đội biên phòng và gia đình",
+            "Công an nhân dân, bộ đội biên phòng, cảnh sát điều tra tội phạm ma tuý",
+            "Công an nhân dân, bộ đội biên phòng, cảnh sát giao thông và hải quan"
+         ],
+         "correct": "Công an nhân dân, bộ đội biên phòng, cảnh sát biển và hải quan"
+      }
+   },
+   {
+      "question": "Có bao nhiêu hình thức cai nghiện ma tuý?",
+      "answers": {
+         "choices": ["2 hình thức", "4 hình thức", "5 hình thức"],
+         "correct": "3 hình thức"
+      }
+   },
+   {
+      "question": "Người nghiện ma túy có thể cai nghiện ở đâu?",
+      "answers": {
+         "choices": ["Tại gia đình", "Tại cộng đồng", "Tại cơ sở cai nghiện"],
+         "correct": " Tất cả các đáp án trên"
+      }
+   },
+   {
+      "question": "Hình thức cai nghiện tại gia đình được áp dụng đối với người nghiện thuộc trường hợp nào?",
+      "answers": {
+         "choices": [
+            "Người bị bắt buộc cai nghiện",
+            "Cả a và b đều đúng",
+            "Cả a và b đều không chính xác"
+         ],
+         "correct": " Người tự nguyện cai nghiện"
+      }
+   },
+   {
+      "question": "Người nghiện thuộc trường hợp nào sau đây phải được đưa vào cơ sở cai nghiện bắt buộc?",
+      "answers": {
+         "choices": [
+            "Người nghiện ma túy mới nghiện",
+            "Người nghiện ma túy phá tán tài sản",
+            "Người nghiện ma túy có hành vi trộm cắp tài sản của gia đình và xã hội"
+         ],
+         "correct": "Người nghiện ma túy từ đủ 18 tuổi trở lên đã được cai nghiện tại gia đình, cộng đồng hoặc đã được giáo dục nhiều lần tại xã, phường, thị trấn mà vẫn còn nghiện hoặc không có nơi cư trú"
+      }
+   },
+   {
+      "question": "Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi đã được cai nghiện tại gia đình, cộng đồng hoặc đã được giáo dục nhiều lần tại xã, phường, thị trấn mà vẫn còn nghiện thì phải xử lý như thế nào?",
+      "answers": {
+         "choices": [
+            "Bắt giam",
+            "Truy cứu trách nhiệm hình sự",
+            "Xử phạt hành chính"
+         ],
+         "correct": "Đưa vào cơ sở bắt buộc cai nghiện dành riêng cho họ"
+      }
+   },
+   {
+      "question": "Trong thời gian cai nghiện bắt buộc, người nghiện ma túy có trách nhiệm gì?",
+      "answers": {
+         "choices": [
+            "Tuân thủ nội quy của cơ sở cai nghiện",
+            "Chịu sự quản lý, giáo dục của cơ sở cai nghiện bắt buộc",
+            "Lao động, học tập, chữa bệnh để cai nghiện và góp phần đảm bảo đời sống trong thời gian cai nghiện."
+         ],
+         "correct": " Tất cả các trách nhiệm trên"
+      }
+   },
+   {
+      "question": "Trong trường hợp nào người nghiện ma túy phải được bố trí vào các khu vực tách riêng với những người nghiện ma túy khác để quản lý và chữa bệnh?",
+      "answers": {
+         "choices": [
+            "Người nghiện là phụ nữ và người chưa thành niên",
+            "Người nghiện là người có bệnh truyền nhiễm nguy hiểm",
+            "Người nghiện là người đã cai nghiện nhiều lần hoặc có hành vi gây rối trật tự"
+         ],
+         "correct": " Tất cả các trường hợp trên"
+      }
+   },
+   {
+      "question": "Thời hạn cai nghiện ma túy tại gia đình và cộng đồng theo quy định tại Luật phòng chống ma túy là bao nhiêu?",
+      "answers": {
+         "choices": [
+            "Từ 1 năm đến 3 năm",
+            "Từ 2 năm đến 5 năm",
+            "Từ 6 tháng đến 24 tháng"
+         ],
+         "correct": "Từ 6 tháng đến 12 tháng"
+      }
+   },
+   {
+      "question": "Việc đưa người nghiện ma túy vào cơ sở bắt buộc cai nghiện được thực hiện theo quyết định của ai?",
+      "answers": {
+         "choices": [
+            "Chủ tịch xã, phường, thị trấn",
+            "Chủ tịch tỉnh, thành phố trực thuộc Trung ương",
+            "Giám đốc công an tỉnh"
+         ],
+         "correct": " Chủ tịch Ủy ban nhân dân quận, huyện, thị xã, thành phố trực thuộc tỉnh"
+      }
+   },
+   {
+      "question": "Thời gian cai nghiện bắt buộc theo quy định của Luật Phòng, chống ma túy là bao nhiêu?",
+      "answers": {
+         "choices": [
+            "6 tháng đến 12 tháng",
+            "1 năm đến 5 năm",
+            "1 năm đến 3 năm"
+         ],
+         "correct": "1 năm đến 2 năm"
+      }
+   },
+   {
+      "question": "Trách nhiệm nào dưới đây theo quy định của Luật Phòng, chống ma túy là trách nhiệm của cơ sở cai nghiện?",
+      "answers": {
+         "choices": [
+            "Xử lý vi phạm hành chính",
+            "Truy cứu trách nhiệm hình sự",
+            "Giam giữ người nghiện ma túy"
+         ],
+         "correct": "Thực hiện đúng phương pháp cai nghiện đã được cơ quan có thẩm quyền duyệt; tổ chức lao động, học tập, chữa bệnh cho người cai nghiện ma túy."
+      }
+   },
+   {
+      "question": "Trong thời gian cai nghiện tại cơ sở cai nghiện, người nghiện phải được cơ sở cai nghiện đảm bảo những quyền gì theo quy định của Luật Phòng, chống ma túy?",
+      "answers": {
+         "choices": [
+            "Người nghiện không còn quyền công dân nên không có bất cứ quyền gì",
+            "Người nghiện được hưởng mọi quyền như những người bình thường khác",
+            "Tất cả các đáp án trên đều sai"
+         ],
+         "correct": "Cơ sở cai nghiện ma túy phải tôn trọng danh dự, nhân phẩm, tính mạng, sức khỏe, tài sản của người cai nghiện ma túy"
+      }
+   },
+   {
+      "question": "Người nghiện ma túy sau khi chấp hành xong thời gian cai nghiện ma túy bắt buộc tại cơ sở cai nghiện ma túy bắt buộc phải chịu sự quản lý sau cai nghiện trong thời gian là bao nhiêu?",
+      "answers": {
+         "choices": ["1 đến 5 năm", "1 đến 3 năm", "6 tháng đến 12 tháng"],
+         "correct": "1 đến 2 năm"
+      }
+   },
+   {
+      "question": "Pháp lệnh phòng chống mại dâm gồm bao nhiêu chương và bao nhiêu điều?",
+      "answers": {
+         "choices": [
+            "5 chương và 30 điều",
+            "6 chương và 31 điều",
+            "6 chương và 40 điều"
+         ],
+         "correct": "6 chương và 41 điều"
+      }
+   },
+   {
+      "question": "Bán dâm theo quy định của Pháp lệnh phòng chống mại dâm là gì?",
+      "answers": {
+         "choices": [
+            "Là hành vi đê tiện",
+            "Là hành vi bẩn thỉu",
+            "Tất cả các đáp án trên đều sai."
+         ],
+         "correct": "Là hành vi giao cấu của một người với người khác để được trả tiền hoặc lợi ích vật chất khác."
+      }
+   },
+   {
+      "question": "Mua dâm theo quy định của Pháp lệnh phòng chống mại dâm là gì?",
+      "answers": {
+         "choices": ["a", "Là hành vi bỉ ổi, vô sỉ", "Các đáp án trên đều sai"],
+         "correct": "Là hành vi của người dùng tiền hoặc lợi ích vật chất khác trả cho người bán dâm để được giao cấu."
+      }
+   },
+   {
+      "question": "Mại dâm là hành vi như thế nào?",
+      "answers": {
+         "choices": [
+            "Là hành vi bán dâm",
+            "Là hành vi mua dâm",
+            "Các đáp án trên đều sai"
+         ],
+         "correct": " Là hành vi bán dâm và mua dâm"
+      }
+   },
+   {
+      "question": "Tại sao phải ngăn chặn tệ nạn mại dâm?",
+      "answers": {
+         "choices": [
+            "Vì nó làm băng hoại đạo đức",
+            "Vì nó lây truyền nhiều loại dịch bệnh nguy hiểm",
+            "Vì nó gây ảnh hưởng tiêu cực tới văn hóa, xã hội"
+         ],
+         "correct": " Tất cả các đáp án trên"
+      }
+   },
+   {
+      "question": "Câu 6: Đối tượng áp dụng của Pháp lệnh phòng, chống mại dâm là ai?",
+      "answers": {
+         "choices": [
+            "Các hộ gia đình.",
+            "Người có quốc tịch ViệtNam.",
+            "Cả ba đều sai."
+         ],
+         "correct": " Cá nhân, cơ quan, tổ chức ViệtNamvà cá nhân, tổ chức nước ngoài hoạt động trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+      }
+   },
+   {
+      "question": "Câu 7: Gia đình có trách nhiệm gì trong phòng, chống mại dâm?",
+      "answers": {
+         "choices": [
+            "Không cho các thành viên trong gia đình được quan hệ với những người chung quanh đề phòng bị rủ rê, lôi kéo",
+            "b",
+            "Chỉ được xem các loại văn hoá phẩm đã được cha mẹ kiểm duyệt",
+            "Quản lý chặt chẽ việc đi lại của các thành viên trong gia đình"
+         ],
+         "correct": ""
+      }
+   },
+   {
+      "question": "Người phát hiện, tố giác và đấu tranh trong phòng, chống mại dâm được đảm bảo các quyền lợi gì?",
+      "answers": {
+         "choices": [
+            "Tuỳ theo điều kiện của địa phương sẽ có hổ trợ khi có thiệt hại.",
+            "Được biểu dương khen thưởng.",
+            "Được quan tâm giúp đỡ khi có khó khăn."
+         ],
+         "correct": " Được bảo vệ và giữ bí mật, nếu bị thiệt hại tài sản thì được đền bù. Nếu bị thương tích, tổn hại về sức khỏe hoặc bị thiệt hại về tính mạng thì được hưởng chế độ, chính sách theo quy định của pháp luật."
+      }
+   },
+   {
+      "question": "Người có hành vi liên quan đến mại dâm theo qui định của Pháp lệnh phòng, chống mại dâm sẽ bị xử lý như thế nào?",
+      "answers": {
+         "choices": [
+            "Chỉ bị xử lý về hành chính theo quy định của pháp luật về xử phạt vi phạm hành chính nếu có hành vi liên quan đến mại dâm.",
+            "Phải bồi thường thiệt hại về vật chất .",
+            "Tất cả các đáp án trên đều không chính xác"
+         ],
+         "correct": " Bị truy cứu trách nhiệm hình sự nếu có hành vi liên quan đến mại dâm như: môi giới mại dâm, chứa mại dâm, cưỡng bức bán dâm, tổ chức mại dâm, mua bán phụ nữ, trẻ em để phục vụ hoạt động mại dâm"
+      }
+   },
+   {
+      "question": "Pháp lệnh phòng, chống mại dâm có hiệu lực thi hành từ ngày, tháng, năm nào?",
+      "answers": {
+         "choices": [
+            "Ngày 07 tháng 01 năm 2003.",
+            "Ngày 17 tháng 11 năm 2003",
+            "Ngày 27 tháng 11 năm 2003"
+         ],
+         "correct": "Ngày 01 tháng 7 năm 2003"
+      }
+   },
+   {
+      "question": "Hành vi nào sau đây bị nghiêm cấm theo Pháp lệnh phòng chống mại dâm?",
+      "answers": {
+         "choices": ["Mua dâm", "Bán dâm", "Tổ chức hoạt động mại dâm"],
+         "correct": " Tất cả các hành vi nêu trên"
+      }
+   },
+   {
+      "question": "Nhà trường có trách nhiệm gì đối với hoạt động phòng chống mại dâm?",
+      "answers": {
+         "choices": [
+            "Tuyên truyền, giáo dục về phòng, chống mại dâm. Nội dung tuyên truyền, giáo dục phải phù hợp với từng loại hình trường học, trình độ, lứa tuổi, giới tính của học sinh, sinh viên, học viên và phong tục, tập quán của các dân tộc",
+            "Phối hợp với gia đình, cơ quan, tổ chức và Uỷ ban nhân dân địa phương quản lý chặt chẽ học sinh, sinh viên, học viên; tổ chức các hoạt động vui chơi lành mạnh để phòng ngừa, ngăn chặn hành vi vi phạm pháp luật về phòng, chống mại dâm",
+            "Động viên, khuyến khích học sinh, sinh viên, học viên tích cực tham gia vào các hoạt động tuyên truyền, giáo dục phòng, chống mại dâm."
+         ],
+         "correct": " Tất cả các trách nhiệm trên"
+      }
+   },
+   {
+      "question": "Cơ quan, tổ chức, cá nhân phải gì khi phát hiện hoạt động mại dâm?",
+      "answers": {
+         "choices": [
+            "Không phải làm gì, đó là việc của Nhà nước",
+            "Sỉ nhục đối tượng",
+            "Tránh xa đối tượng để không gây ảnh hưởng đến cho bản thân."
+         ],
+         "correct": " Phải thông báo hoặc tố giác kịp thời với cơ quan nhà nước có thẩm quyền"
+      }
+   },
+   {
+      "question": "Hình thức xử lý nào sau đây được áp dụng đối với người mua dâm?",
+      "answers": {
+         "choices": [
+            "Truy cứu trách nhiệm hình sự",
+            "Cả a và b đều đúng",
+            "Cả a và b đều sai"
+         ],
+         "correct": " Xử lý hành chính hoặc truy cứu trách nhiệm hình sự tùy thuộc vào mức độ nguy hại của hành vi"
+      }
+   },
+   {
+      "question": "Hình thức xử lý nào sau đây được áp dụng đối với người môi giới mại dâm?",
+      "answers": {
+         "choices": ["Xử phạt hành chính", "Cảnh cáo", "Phạt tiền"],
+         "correct": " Truy cứu trách nhiệm hình sự"
+      }
+   },
+   {
+      "question": "Tội môi giới mại dâm được quy định tại điều bao nhiêu Bộ Luật hình sự?",
+      "answers": {
+         "choices": ["Điều 256", "Điều 257", "Điều 258"],
+         "correct": " Điều 255"
+      }
+   },
+   {
+      "question": "Hành vi môi giới mại dâm là hành vi như thế nào?",
+      "answers": {
+         "choices": [
+            "Dụ dỗ hoặc dẫn dắt người mua dâm",
+            "Dụ dỗ hoặc dẫn dắt người bán dâm",
+            "Tất cả các đáp án trên đều sai"
+         ],
+         "correct": "Dụ dỗ hoặc dẫn dắt người mại dâm"
+      }
+   },
+   {
+      "question": "Tội chứa mại dâm được quy định tại điều bao nhiêu Bộ Luật hình sự?",
+      "answers": {
+         "choices": ["Điều 255", "Điều 256", "Điều 257"],
+         "correct": " Điều 254"
+      }
+   },
+   {
+      "question": "Tội chứa mại dâm có thể bị phạt bao nhiêu năm tù?",
+      "answers": {
+         "choices": ["1 năm đến 5 năm", "1 năm đến 10 năm", "1 năm đến 15 năm"],
+         "correct": " 1 năm đến chung thân"
+      }
+   },
+   {
+      "question": "Tội môi giới mại dâm có thể bị phạt bao nhiêu năm tù?",
+      "answers": {
+         "choices": ["1 đến 5 năm", "1 đến 10 năm", "1 đến chung thân"],
+         "correct": " 6 tháng đến 20 năm"
+      }
+   },
+   {
+      "question": "Bạo lực học đường ở Việt Nam là gì?",
+      "answers": {
+         "choices": [
+            "Là những biểu hiện bạo lực của học sinh, sinh viên trong giờ học, trong khuôn viên nhà trường",
+            "Là một tệ nạn xã hội cần được xử lý một cách cứng rắn",
+            "Là một trào lưu của học sinh, sinh viên"
+         ],
+         "correct": "Là hiện tượng học sinh, sinh viên dùng hành vi mang tính bạo lực để giải quyết mâu thuẫn"
+      }
+   },
+   {
+      "question": "Bạo lực học đường gây ra tác hại gì?",
+      "answers": {
+         "choices": [
+            "Gây ra tổn thương về thân thể và tâm lý của nạn nhân",
+            "Tạo ra sự phát triển nhân cách lệch lạc trong học sinh, sinh viên",
+            "Làm giảm sút học tập của học sinh và ảnh hưởng tới giáo dục của nhà trường"
+         ],
+         "correct": "Gây ra tất cả những tác hại trên"
+      }
+   },
+   {
+      "question": "Tại sao phải ngăn chặn bạo lực học đường?",
+      "answers": {
+         "choices": [
+            "Vì đó là một trào lưu lệch lạc",
+            "Vì học sinh có thể bị xử lý hình sự bởi hành vi bạo lực của mình",
+            "Vì sự phát triển kinh tế - xã hội"
+         ],
+         "correct": "Vì bạo lực học đường ảnh hưởng to lớn tới việc học tập của học sinh nói riêng và sự giáo dục của nhà trường nói chung, gây những hệ quả xấu đối với sự phát triển toàn diện của xã hội"
+      }
+   },
+   {
+      "question": "Nguyên nhân nào dưới đây gây nên tình trạng bạo lực học đường?",
+      "answers": {
+         "choices": [
+            "Do danh dự của học sinh, sinh viên",
+            "Do stress căng thẳng kéo dài",
+            "Do sự xúi giục của người khác đối với các em học sinh."
+         ],
+         "correct": "Do ảnh hưởng tiêu cực của xã hội, thiếu sự quan tâm của gia đình, bản thân học sinh ở vào độ tuổi chưa phát triển đầy đủ về tâm sinh lý."
+      }
+   },
+   {
+      "question": "Những hành vi có tính chất bạo lực học đường có thể xâm hại tới quyền nào của nạn nhân?",
+      "answers": {
+         "choices": [
+            "Quyền bất khả xâm phạm về tài sản",
+            "Quyền bất khả xâm phạm về nhân phẩm, danh dự",
+            "Quyền bất khả xâm phạm về tính mạng, sức khỏe"
+         ],
+         "correct": "Tất cả các quyền trên"
+      }
+   },
+   {
+      "question": "Người chưa thành niên (dưới 18 tuổi) có hành vi xâm hại đến sức khỏe, danh dự, nhân phẩm của người khác thì bị sẽ bị pháp luật trừng trị như thế nào?",
+      "answers": {
+         "choices": [
+            "Vì chưa thành niên nên sẽ không bị xử lý.",
+            "Chỉ bị xử lý kỷ luật ở nhà trường",
+            "Tất cả các đáp án trên đều sai"
+         ],
+         "correct": " Có thể bị xử lý hành chính hoặc hình sự (nếu hành vi gây nguy hại đủ lớn)"
+      }
+   },
+   {
+      "question": "Độ tuổi để có thể bị xử lý vi phạm hành chính theo quy định của Luật xử lý vi phạm hành chính được xác định là bao nhiêu?",
+      "answers": {
+         "choices": [
+            "Từ 15 tuổi trở lên vi phạm do cố ý",
+            "Từ 16 tuổi trở lên vi phạm do cố ý",
+            "Từ 18 tuổi trở lên"
+         ],
+         "correct": " Từ 14 tuổi trở lên vi phạm do cố ý"
+      }
+   },
+   {
+      "question": "Người chưa thành niên có hành vi gây thiệt hại về sức khỏe, tài sản của người khác mà không có khả năng nộp phạt và khắc phục hậu quả thì ai là người thực hiện nghĩa vụ thay?",
+      "answers": {
+         "choices": [
+            "Không có tiền thì không phải thực hiện nghĩa vụ nộp phạt và khắc phục hậu quả",
+            "Chưa thành niên nên không không bị phạt tiền",
+            "Cả ba đáp án trên đều sai"
+         ],
+         "correct": " Cha mẹ hoặc người giám hộ phải thực hiện thay"
+      }
+   },
+   {
+      "question": "Người có cử chỉ, lời nói thô bạo, trêu ghẹo, xúc phạm danh dự, nhân phẩm của người khác bị xử phạt hành chính với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "200.000 đ đến 500.000 đ",
+            "500.000 đ đến 1000.000 đ",
+            "500.000 đ đến 700.000 đ"
+         ],
+         "correct": " 100.000 đ đến 300.000 đ"
+      }
+   },
+   {
+      "question": "Hành vi đánh nhau, xúi giục người khác đánh nhau gây mất trật tự công cộng bị xử phạt hành chính với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "100.000 đ đến 300.000 đ",
+            "200.000 đ đến 500.000 đ",
+            "500.000 đ đến 700.000 đ"
+         ],
+         "correct": " 500.000 đ đến 1000.000 đ"
+      }
+   },
+   {
+      "question": "Hành vi tụ tập đông người ở nơi công cộng người gây mất trật tự công cộng bị xử phạt hành chính với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "100.000 đ đến 300.000 đ",
+            "500.000 đ đến 1200.000 đ",
+            "500.000 đ đến 700.000 đ"
+         ],
+         "correct": " 500.000 đ đến 1000.000 đ"
+      }
+   },
+   {
+      "question": "Hành vi tàng trữ, cất giấu trong người, đồ vật, phương tiện giao thông các loại dao, búa nhằm mục đích gây rối trật tự công cộng, cố ý gây thương tích cho người khác bị xử phạt hành chính với mức nào dưới đây??",
+      "answers": {
+         "choices": [
+            "500.000 đ đến 1000.000 đ",
+            "1000.000 đ đến 1200.000 đ",
+            "500.000 đ đến 1200.000 đ"
+         ],
+         "correct": " 2000.000 đ đến 3000.000 đ"
+      }
+   },
+   {
+      "question": "Hành vi lôi kéo hoặc kích động người khác gây rối, làm mất trật tự công cộng bị xử phạt hành chính với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "1000.000 đ đến 3000.000 đ",
+            "500.000 đ đến 1000.000 đ",
+            "500.000 đ đến 1200.000 đ"
+         ],
+         "correct": " 2000.000 đ đến 3000.000 đ"
+      }
+   },
+   {
+      "question": "Hành vi xâm hại hoặc thuê người khác xâm hại đến sức khỏe của người khác bị xử phạt hành chính với mức nào dưới đây?",
+      "answers": {
+         "choices": [
+            "100.000 đ đến 300.000 đ",
+            "500.000 đ đến 1000.000 đ",
+            "1000.000 đ đến 3000.000 đ"
+         ],
+         "correct": " 2000.000 đ đến 3000.000 đ"
+      }
+   },
+   {
+      "question": "Câu 16 . Hành vi cố ý gây thương tích cho người khác (bắt nạt hoặc đánh nhau) với tỉ lệ bao nhiêu phần trăm (%) thì bị truy cứu trách nhiệm hình sự?",
+      "answers": {
+         "choices": ["9% trở lên", "10 % trở lên", "12 % trở lên"],
+         "correct": " 11 % trở lên "
+      }
+   },
+   {
+      "question": "Hành vi cố ý gây thương tích cho người khác dưới 11 % nhưng thuộc trường hợp nào dưới đây thì bị truy cứu trách nhiệm hình sự?",
+      "answers": {
+         "choices": [
+            "Dùng hung khí nguy hiểm hoặc dùng thủ đoạn gây nguy hại cho nhiều người",
+            "Gây cố tật nhẹ cho nạn nhân",
+            "Phạm tội nhiều lần đối với cùng một người hoặc đối với nhiều người"
+         ],
+         "correct": " Tất cả các trường hợp trên đều bị truy cứu trách nhiệm hình sự"
+      }
+   },
+   {
+      "question": "Từ bao nhiêu tuổi trở lên thì cá nhân có thể bị truy cứu trách nhiệm hình sự nếu thực hiện hành vi nguy hiểm cho xã hội theo quy định của Bộ luật hình sự?",
+      "answers": {
+         "choices": [
+            "18 tuổi trở lên",
+            "16 tuổi trở lên",
+            "Tất cả các đáp án trên đều không chính xác."
+         ],
+         "correct": " 14 tuổi trở lên "
+      }
+   },
+   {
+      "question": "Tội cố ý gây thương tích hoặc gây tổn hại tới sức khỏe của người khác được quy định tại điều bao nhiêu Bộ Luật hình sự?",
+      "answers": {
+         "choices": ["Điều 93", "Điều 125", "Điều 127"],
+         "correct": " Điều 104"
+      }
+   },
+   {
+      "question": "Tội làm nhục người khác được quy định tại điều bao nhiêu của Bộ Luật hình sự?",
+      "answers": {
+         "choices": ["Điều 120", "Điều 122", "Điều 123"],
+         "correct": " Điều 121"
+      }
+   },
+   {
+      "question": "Tội giết người được quy định tại điều bao nhiêu của Bộ Luật hình sự?",
+      "answers": {
+         "choices": ["Điều 91", "Điều 92", "Điều 94"],
+         "correct": "Điều 93"
+      }
+   },
+   {
+      "question": "Tội cố ý gây thương tích hoặc gây tổn hại tới sức khỏe của người khác phải chịu hình phạt gì theo quy định của Bộ luật hình sự?",
+      "answers": {
+         "choices": [
+            "Phạt tù từ 3 tháng đến 5 năm",
+            "Cải tạo không giam giữ đến 3 năm",
+            "Phạt tù từ 7 năm đến 15 năm"
+         ],
+         "correct": "Cải tạo không giam giữ đến 3 năm đến tù chung thân"
+      }
+   },
+   {
+      "question": "Tội làm nhục người khác phải chịu hình phạt gì theo quy định của Bộ luật hình sự?",
+      "answers": {
+         "choices": [
+            "Phạt tù từ 3 tháng đến 3 năm",
+            "Cải tạo không giam giữ đến 5 năm",
+            "Cảnh cáo"
+         ],
+         "correct": "Cảnh cáo đến tù có thời hạn 3 năm"
+      }
+   },
+   {
+      "question": "Tội giết người phải chịu hình phạt gì theo quy định của Bộ luật hình sự?",
+      "answers": {
+         "choices": [
+            "Phạt tù từ 5 năm đến 15 năm",
+            "Phạt tù từ 12 năm đến 20 năm",
+            "Phạt tù từ 7 năm đến 20 năm"
+         ],
+         "correct": "Phạt tù từ 7 năm đến 15 năm, tù chung thân hoặc tử hình"
+      }
+   },
+   {
+      "question": "Nếu nhìn thấy tình trạng học sinh đánh nhau em phải làm gì?",
+      "answers": {
+         "choices": [
+            "Không làm gì cả, đó không phải việc của mình",
+            "Lấy điện thoại quay",
+            "Cổ vũ"
+         ],
+         "correct": " Ngăn chặn bằng các biện pháp cần thiết phù hợp với khả năng của bản thân"
+      }
+   },
+   {
+      "question": "Để ngăn chặn tình trạng bạo lực học đường em phải làm gì?",
+      "answers": {
+         "choices": [
+            "Tuyên truyền cho bạn bè, gia đình về tác hại, hậu quả của bạo lực học đường",
+            "Xây dựng mối quan hệ gắn bó với bạn học và nhà trường",
+            "Lên án, đấu tranh chống bạo lực học đường bằng các biện pháp cần thiết, phù hợp với khả năng của bản thân?"
+         ],
+         "correct": " Tất cả các việc làm nêu trên"
+      }
+   }
+]
